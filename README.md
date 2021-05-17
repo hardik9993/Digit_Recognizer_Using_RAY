@@ -1,0 +1,5 @@
+# Digit_Recognizer_Using_RAY
+# Abstract
+Deep learning has thrown a dramatic twist in the world of machine learning by making it more artificially intelligent, thanks to the rise of Artificial Neural Networks (ANN). Because of its wide range of applications, deep learning is used in a wide range of fields, including surveillance, fitness, medicine, sports, robotics, and drones. Convolutional Neural Network (CNN) is at the heart of spectacular developments in deep learning, combining Artificial Neural Network (ANN) with cutting-edge deep learning strategies. . The aim of this study is to compare the accuracies of CNN in classifying handwritten digits using different numbers of hidden layers and epochs.
+
+Ray uses a single dynamic execution engine to support a coherent interface that can express both task-parallel and actor-based computations. Ray manages the system's control state with a distributed scheduler and a distributed and fault-tolerant store to fulfill the performance requirements.
